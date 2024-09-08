@@ -38,7 +38,6 @@ I am a passionate Software Developer with a strong interest in web and Android d
 
 ![Devvrat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devvratsaini&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devvratsaini&layout=compact&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=devvratsaini&theme=react-dark)
 
 ---
 
