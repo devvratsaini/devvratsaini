@@ -6,17 +6,17 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on [My Portfolio Website](https://devvratsaini.github.io/portfolio-unofficial/)
+- 🔭 I’m currently working on: [My Portfolio Website](https://devvratsaini.github.io/portfolio-unofficial/)
 
-- 🌱 I’m currently learning **Computer Networking, MERN Stack and Kotlin.**
+- 🌱 I’m currently learning: **Computer Networking, MERN Stack and Kotlin.**
 
-- 👯 I’m looking to collaborate on **new Java project ideas.**
+- 👯 I’m looking to collaborate on: **new Java project ideas.**
 
-- 💬 Ask me about **Java.**
+- 💬 Ask me about: **Java.**
 
-- 📫 How to reach me **devvrat.saini4@gmail.com**
+- 📫 How to reach me: **devvrat.saini4@gmail.com**
 
-- ⚡ Fun fact **A fact can be fun.**
+- ⚡ Fun fact: **A fact can be fun.**
 <br>
 
 ## 🚀 Skills
