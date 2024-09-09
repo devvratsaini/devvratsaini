@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on: [My Portfolio Website](https://devvratsaini.github.io/portfolio-unofficial/)
 
-- 🌱 I’m currently learning: **Computer Networking, MERN Stack and Kotlin.**
+- 🌱 I’m currently learning: **MERN Stack, Kotlin, and Microsoft Azure.**
 
 - 👯 I’m looking to collaborate on: **new Java project ideas.**
 
-- 💬 Ask me about: **Java.**
+- 💬 Ask me about: **Java, and Cloud Computing.**
 
 - 📫 How to reach me: **devvrat.saini4@gmail.com**
 
