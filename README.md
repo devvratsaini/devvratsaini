@@ -34,7 +34,6 @@
 
 ### Digital Twin – Industry Project at ZByte
 - Created a blockchain-based solution to securely manage document ownership using NFTs and decentralized storage (IPFS).
-- [More details on this project](https://github.com/devvratsaini)
 <br>
 
 ## 🎖 Achievements
