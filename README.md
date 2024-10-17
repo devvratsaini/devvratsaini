@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on: [My Portfolio Website](https://devvratsaini.github.io/portfolio-unofficial/)
 
-- 🌱 I’m currently learning: **MERN Stack, Kotlin, and Microsoft Azure.**
+- 🌱 I’m currently learning: **MERN Stack, and Kotlin.**
 
-- 👯 I’m looking to collaborate on: **new Java project ideas.**
+- 👯 I’m looking to collaborate on: **New Java project ideas.**
 
 - 💬 Ask me about: **Java, and Cloud Computing.**
 
@@ -67,7 +67,7 @@
 - **IDEs**: IntelliJ IDEA, Android Studio, VS Code
 - **Version Control**: Git, GitHub
 - **OS**: Linux, Windows
-- **Databases**: MySQL, PostgreSQL
+- **Databases**: MySQL
 <br>
 
 ## 🔗 Let's Connect
