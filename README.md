@@ -6,27 +6,35 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on: [My Portfolio Website](https://sainidevvrat.vercel.app/)
+- 🔭 I’m currently working on: [SynKro](https://syn-kro.vercel.app/) - an Academic Collaboration Platform
 
-- 🌱 I’m currently learning: **MERN Stack, and Kotlin.**
+- 🌱 I’m currently preparing for interviews.
 
-- 👯 I’m looking to collaborate on: **New Java project ideas.**
+- 👯 I’m looking to collaborate on: **New Innovative Website ideas**
 
-- 💬 Ask me about: **Java, and Cloud Computing.**
+- 💬 Ask me about: **Web Development and Spirituality.**
 
 - 📫 How to reach me: **devvrat.saini4@gmail.com**
 
-- ⚡ Fun fact: **A fact can be fun.**
+- ⚡ Fun fact: **I can understand 6 languages, and I love listening to music and podcasts!**
 <br>
 
 ## 🚀 Skills
 
-- **Programming Languages**: Java, C, C++, Python, JavaScript (ES6+), SQL
-- **Technologies & Frameworks**: Node.js, Express.js, React.js, Git, GitHub, Linux, HTML5, CSS3
-- **Core Concepts**: Object Oriented Programming (OOP), Data Structures and Algorithms, Agile Methodology
+- **Programming Languages**: Java, C, C++, Python, JavaScript, SQL, MongoDB
+- **Technologies & Frameworks**: Node.js, Express.js, React.js, Next.js, Git, GitHub, Linux, HTML5, CSS3, Tailwind CSS
+- **Core Concepts**: Object Oriented Programming (OOP), Data Structures and Algorithms, Cloud Computing, AI and Machine Learning
+- **Spoken Languages**: English, Hindi, French.
 <br>
 
 ## 💼 Projects
+
+### SynKro - An Academic Collaboration Platform
+- Developed a scalable web-based platform to streamline student-faculty collaboration for project-based learning.
+- Implemented features such as teammate / project search, skill-based recommendations (via 
+Neo4j), real-time chat, and a gamified leaderboard to enhance engagement.
+- Built using Next.js, Node.js, MongoDB, and Tailwind CSS.
+- Achieved 85% UI satisfaction and validated core features via pilot user testing.
 
 ### HandFont – FOSS Hack 2024
 - Developed a personalized handwriting font generation tool using Node.js, Express.js, image processing, and custom scripts for image segmentation and vectorization.
